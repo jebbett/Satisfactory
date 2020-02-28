@@ -1,5 +1,7 @@
 # Satisfactory Safe Launcher
 
+Tested only on Windows 10 using OneDrive
+
 1. This batch script allows you to select which version of Satisfactory you want to play (Assuming both are installed)
 2. When you exit the game this will immediately backup your save to your OneDrive documents folder:
     C:\Users\%username%\OneDrive\Documents\My Games\BackUp\Satisfactory
